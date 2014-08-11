@@ -135,9 +135,9 @@ hi link scalaObject Keyword
 hi link scalaTrait Keyword
 hi link scalaDefName Function
 hi link scalaDefSpecializer Function
-hi link scalaClassName Special
+hi link scalaClassName Include
 hi link scalaClassSpecializer Special
-hi link scalaConstructor Special
+hi link scalaConstructor Function
 hi link scalaConstructorSpecializer scalaConstructor
 
 let b:current_syntax = "scala"
